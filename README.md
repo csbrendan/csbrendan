@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @csbrendan
-- 👀 I’m interested in defi on sol and eth
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on defi on solana
-- 📫 How to reach me cs.brendan@gmail.com
+- 👀 I’m interested in deep learning
+- 🌱 I’m currently learning pytorch, tensorflow
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me cs.brendan@gmail.com or bigsur@stanford.edu
 
 <!---
 csbrendan/csbrendan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
