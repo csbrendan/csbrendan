@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csbrendan
-- 👀 I’m interested in deep learning
+- 👀 I’m pursuing the graduate certificate in AI @ Stanford and have taken CS230, CS330, CS224N.
 - 🌱 I’m currently learning pytorch, tensorflow
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me cs.brendan@gmail.com or bigsur@stanford.edu
