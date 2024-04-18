@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @csbrendan
-- 👀 I’m pursuing the graduate certificate in AI @ Stanford and have taken CS230, CS330, CS224N.
-- 🌱 I’m currently learning pytorch, tensorflow
-- 💞️ I’m looking to collaborate
+- 👋 Hi, I’m Brendan P. Murphy @csbrendan 
+- 👀 I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken CS230, CS330, CS224N, CS231N...
 - 📫 How to reach me cs.brendan@gmail.com or bigsur@stanford.edu
 
 <!---
