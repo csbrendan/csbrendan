@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brendan P. Murphy @csbrendan 
-- 👀 I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken
+- 👀 I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken:
 - CS230 Deep Learning
 - CS330 Deep Multi-Task and Meta Learning
 - CS224N Natural Language Processing with Deep Learning
