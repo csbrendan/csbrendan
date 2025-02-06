@@ -8,7 +8,7 @@
 
 
   
-- 📫 How to reach me cs.brendan@gmail.com or bigsur@stanford.edu
+- 📫 How to reach me cs.brendan@gmail.com
 
 <!---
 csbrendan/csbrendan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
