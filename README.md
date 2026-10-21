@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Brendan P. Murphy @csbrendan 
 - 👀 I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken:
-- CS229 Machine Learning
-- CS230 Deep Learning
-- CS330 Deep Multi-Task and Meta Learning
-- CS224N Natural Language Processing with Deep Learning
-- CS231N Deep Learning for Computer Vision
-- XCS224R Deep Reinforcement Learning
+- [CS229 Machine Learning](https://github.com/csbrendan/CS229)
+- [CS230 Deep Learning](https://github.com/csbrendan/cs230)
+- [CS330 Deep Multi-Task and Meta Learning](https://github.com/csbrendan/CS330)
+- [CS224N Natural Language Processing with Deep Learning](https://github.com/csbrendan/CS224N)
+- [CS231N Deep Learning for Computer Vision](https://github.com/csbrendan/CS231N)
+- [XCS224R Deep Reinforcement Learning](https://github.com/csbrendan/Deep-Reinforcement-Learning)
 - XAG329A Agentic AI: Self Improving AI Agents
 
 
