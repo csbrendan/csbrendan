@@ -5,6 +5,8 @@
 - CS330 Deep Multi-Task and Meta Learning
 - CS224N Natural Language Processing with Deep Learning
 - CS231N Deep Learning for Computer Vision
+- XCS224R Deep Reinforcement Learning
+- XAG329A Agentic AI: Self Improving AI Agents
 
 
   
