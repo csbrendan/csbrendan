@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Brendan P. Murphy @csbrendan 
-- 👀 I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken:
+- 📄 Preprint: [Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards](https://arxiv.org/abs/2611.12728), with Agustina Saenz, MD, MPH
+- I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken:
 - [CS229 Machine Learning](https://github.com/csbrendan/CS229)
 - [CS230 Deep Learning](https://github.com/csbrendan/cs230)
 - [CS330 Deep Multi-Task and Meta Learning](https://github.com/csbrendan/CS330)
