@@ -6,7 +6,7 @@
 - [CS224N Natural Language Processing with Deep Learning](https://github.com/csbrendan/CS224N)
 - [CS231N Deep Learning for Computer Vision](https://github.com/csbrendan/CS231N)
 - [XCS224R Deep Reinforcement Learning](https://github.com/csbrendan/Deep-Reinforcement-Learning)
-- XAG329A Agentic AI: Self Improving AI Agents
+- [XAG329A Agentic AI: Self Improving AI Agents](https://github.com/csbrendan/Self-Improving-AI-Agents)
 
 
   
