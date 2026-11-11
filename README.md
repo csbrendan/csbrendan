@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brendan P. Murphy @csbrendan 
-- 📄 Preprint: [Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards](https://arxiv.org/abs/2611.12728), with Agustina Saenz, MD, MPH
+- 🔬 Latest research: [Safe RL for Multi-Turn Clinical Agents](https://arxiv.org/abs/2611.12728) (arXiv 2026). Now extending it to realistic clinical benchmarks and larger models.
 - I’m pursuing the Artificial Intelligence Graduate Certificate @ Stanford and have taken:
 - [CS229 Machine Learning](https://github.com/csbrendan/CS229)
 - [CS230 Deep Learning](https://github.com/csbrendan/cs230)
